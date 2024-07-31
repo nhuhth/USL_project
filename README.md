@@ -1,7 +1,7 @@
 
-### Detailed Notebook Descriptions
+## Detailed Notebook Descriptions
 
-#### 1. Association Rules - Online Retail
+### 1. Association Rules - Online Retail
 
 **Overview:**
 This notebook focuses on association rule mining using the Online Retail dataset. The primary goal is to uncover interesting relationships between items purchased together.
@@ -16,7 +16,7 @@ This notebook focuses on association rule mining using the Online Retail dataset
 - **Market Basket Analysis:** Identifying product combinations that frequently co-occur to enhance cross-selling strategies.
 - **Recommender Systems:** Providing personalized product recommendations based on association rules.
 
-#### 2. RFM Analysis in Olist Store
+### 2. RFM Analysis in Olist Store
 
 **Overview:**
 This notebook performs Recency, Frequency, Monetary (RFM) analysis on the Olist store dataset to segment customers based on their purchasing behavior.
@@ -32,7 +32,7 @@ This notebook performs Recency, Frequency, Monetary (RFM) analysis on the Olist 
 - **Customer Segmentation:** Identifying high-value customers, loyal customers, and those at risk of churn.
 - **Targeted Marketing:** Tailoring marketing strategies and campaigns based on customer segments to increase engagement and retention.
 
-#### 3. Dimensionality Reduction - Diagnosis Dataset
+### 3. Dimensionality Reduction - Diagnosis Dataset
 
 **Overview:**
 This notebook explores dimensionality reduction techniques on a medical diagnosis dataset to improve model performance and visualization.
